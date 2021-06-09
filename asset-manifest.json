@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-ginoapps/static/css/main.d8e93cd9.chunk.css",
+    "main.js": "/react-ginoapps/static/js/main.0af0609e.chunk.js",
+    "main.js.map": "/react-ginoapps/static/js/main.0af0609e.chunk.js.map",
+    "runtime-main.js": "/react-ginoapps/static/js/runtime-main.54cf892f.js",
+    "runtime-main.js.map": "/react-ginoapps/static/js/runtime-main.54cf892f.js.map",
+    "static/js/2.c1c164bd.chunk.js": "/react-ginoapps/static/js/2.c1c164bd.chunk.js",
+    "static/js/2.c1c164bd.chunk.js.map": "/react-ginoapps/static/js/2.c1c164bd.chunk.js.map",
+    "index.html": "/react-ginoapps/index.html",
+    "static/css/main.d8e93cd9.chunk.css.map": "/react-ginoapps/static/css/main.d8e93cd9.chunk.css.map",
+    "static/js/2.c1c164bd.chunk.js.LICENSE.txt": "/react-ginoapps/static/js/2.c1c164bd.chunk.js.LICENSE.txt",
+    "static/media/bible.css": "/react-ginoapps/static/media/biblebg.4fb115c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54cf892f.js",
+    "static/js/2.c1c164bd.chunk.js",
+    "static/css/main.d8e93cd9.chunk.css",
+    "static/js/main.0af0609e.chunk.js"
+  ]
+}
